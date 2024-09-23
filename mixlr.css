@@ -83,6 +83,8 @@
     flex-direction: row; */
 }
 
+
+
 .container5{
     display: flex;
     justify-content: space-around !important;
@@ -101,7 +103,7 @@
 }
 
 .footer{
-    margin-left: 450px;
+    margin-left: 450px !important;
 }
 
 .text4{
